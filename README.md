@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi eu sou o Breno
 
 <!--
 **Brenomb/Brenomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,10 @@ Here are some ideas to get you started:
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
 
+##
+  
+  Coding on <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  
 ##
   
 <div>
