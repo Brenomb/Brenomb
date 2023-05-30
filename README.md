@@ -35,13 +35,10 @@ Here are some ideas to get you started:
 ##
   
 <div>
-  <a href="https://discord.com/users/454635267891134474"/><img target="_blank" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white>
-  
-  <a href="https://steamcommunity.com/id/brenomb04/"/><img target="_blank" src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white/>
-  
-  <a href="mailto:brenomaistrobr@gmail.com.com"/><img target="_blank" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
-    
-  <a href="https://www.linkedin.com/in/breno-maistro/"/><img target="_blank" src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+  <a href="https://discord.com/users/454635267891134474"/><img target="_blank" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://steamcommunity.com/id/brenomb04/"/><img target="_blank" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />  
+  <a href="mailto:brenomaistrobr@gmail.com.com"/><img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
+  <a href="https://www.linkedin.com/in/breno-maistro/"/><img target="_blank" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
 </div>
 
