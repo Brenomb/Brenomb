@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 </div>
 
     
- ![snake gif](https://github.com/Brenomb/Brenomb/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Brenomb/Snake/blob/main/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Brenomb/Snake/blob/main/github-user-contribution.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Brenomb/Snake/blob/main/github-user-contribution.svg">
+</picture>
