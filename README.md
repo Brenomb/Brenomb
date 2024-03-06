@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ##
   
-  Coding on <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  Just for fun
   
 ##
   
