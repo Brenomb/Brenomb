@@ -29,7 +29,8 @@ Here are some ideas to get you started:
  </div>
 
 ##
-  
+  CRM Developer
+##
 
 <div>
   <a href="https://discord.com/users/454635267891134474"/><img target="_blank" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
